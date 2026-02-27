@@ -7,4 +7,4 @@ This repository showcases my projects and labs done regarding Cybersecurity. It 
 ## Table of Contents 
 
 ### 1. Cybersecurity Basics
-- [Linux Security Basics](1%Cybersecurity%20Basics/Linux%20Security%20Basics%20Lab.pdf)
+- [Linux Security Basics]([1%Cybersecurity%20Basics/Linux%20Security%20Basics%20Lab.pdf](https://github.com/shannontuohey12/Cybersecurity-Home-Labs/blob/4cf546d0e8234f9e71e7c3a60ec3d49adfe4288a/1%20Cybersecurity%20Basics/Linux%20Security%20Basics%20Lab.pdf))
